@@ -1,0 +1,19 @@
+{
+  "name": "exploringgithub",
+  "version": "1.0.0",
+  "description": "This repo is made just to know how GitHub is working",
+  "main": "BGradientJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit374/exploringGithub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshit374/exploringGithub/issues"
+  },
+  "homepage": "https://github.com/harshit374/exploringGithub#readme"
+}
